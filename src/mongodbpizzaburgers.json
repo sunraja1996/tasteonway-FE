@@ -1,0 +1,494 @@
+[
+    {
+      "name": "PEPPER BARBECUE CHICKEN",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 500
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/top-view-sausages-pizza-with-black-olive-bell-pepper-tomato-cheese-table_141793-4120.jpg?size=626&ext=jpg&ga=GA1.1.2074045860.1676983604&semt=ais",
+      "description":
+        "Pepper Barbecue Chicken is a savory dish featuring juicy chicken infused with smoky barbecue flavors and a kick of black pepper."
+    },
+  
+    {
+      "name": "MARGHERITA",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 500
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/pizza-with-mushrooms-olives-basil-leaves_140725-8003.jpg?w=740&t=st=1680676039~exp=1680676639~hmac=144abb68ff374a47242f0625a683d7f3d59205665ee4acd142d9270938d38229",
+      "description":
+        "A classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves."
+    },
+  
+    {
+      "name": "PEPPERONI",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 400,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/pizza-with-mushrooms-olives-basil-leaves_140725-8003.jpg?w=740&t=st=1680676060~exp=1680676660~hmac=cc076b59425a7886460c10c8f07725cf8693f184d15016414966f5aa92ebdb30",
+      "description":
+        "A meaty pizza topped with tomato sauce, mozzarella cheese, and slices of pepperoni sausage."
+    },
+  
+    {
+      "name": "VEGGIE DELIGHT",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 225,
+          "medium": 375,
+          "large": 525
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/top-view-tasty-pizza-with-pepper_23-2148601577.jpg?w=740&t=st=1680676083~exp=1680676683~hmac=ae4bdaeb2d0c87d547498b797a191574c63b1d735699f054869b569c3b4281bd",
+      "description":
+        "A veggie lover's dream pizza, loaded with fresh vegetables and mozzarella cheese."
+    },
+  
+    {
+      "name": "CHICKEN TIKKA",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 275,
+          "medium": 425,
+          "large": 575
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/pizza_23-2147961020.jpg?w=740&t=st=1680676127~exp=1680676727~hmac=387edd543d629078d4e2e0cfb87b498ce04bc777210ae5b799dcda5a975d30b1",
+      "description":
+        "A spicy pizza topped with tender chunks of chicken tikka, onions, and mozzarella cheese."
+    },
+  
+    {
+      "name": "MUSHROOM AND OLIVE",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 225,
+          "medium": 375,
+          "large": 525
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/pizza-with-mushrooms-olives-basil-leaves_140725-8003.jpg?w=740&t=st=1680676151~exp=1680676751~hmac=8d2537be3637610b288d3408bfbed3af7c62af92b009c11ed31faadd540c9bd3",
+      "description":
+        "A delicious combination of sliced mushrooms, black olives, tomato sauce, and mozzarella cheese."
+    },
+  
+    {
+      "name": "SAUSAGE AND MUSHROOM",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 400,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/tasty-traditional-pizza-assortment_23-2148921300.jpg?w=740&t=st=1680676172~exp=1680676772~hmac=9dcf5829143e2bc3fa6edbe3ce034aca63e0501a510d4a2ca1429769a7acb53d",
+      "description":
+        "A hearty pizza loaded with sausage, mushrooms, tomato sauce, and mozzarella cheese."
+    },
+  
+    {
+      "name": "MEXICAN FIESTA",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 275,
+          "medium": 425,
+          "large": 575
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/mix-pizza-table_140725-7405.jpg?w=740&t=st=1680676199~exp=1680676799~hmac=2c6f47985db43e31036aeb3dbfc893f8d335f65750ce4056c5073ecceaa6db34",
+      "description":
+        "A spicy pizza topped with jalapeno peppers, red onions, green peppers, and mozzarella cheese."
+    },
+  
+    {
+      "name": "BBQ CHICKEN",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 275,
+          "medium": 425,
+          "large": 575
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/delicious-neapolitan-pizza-board_78826-3290.jpg?w=740&t=st=1680676228~exp=1680676828~hmac=f4e27a8455b9e835afd221c4d79e4a3dae918b90ee8e47ac204cfe8d14b15a6d",
+      "description":
+        "A smoky pizza topped with tender pieces of BBQ chicken, red onions, and mozzarella cheese."
+    },
+  
+    {
+      "name": "PESTO AND ARTICHOKE",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 400,
+          "large": 550
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/flat-lay-delicious-cooked-pizza-with-chamomile-flowers_23-2148753711.jpg?w=740&t=st=1680676248~exp=1680676848~hmac=cf5cdcf390de7cabacaff417cae979a44b21765c96498d0a085a958e0f3da918",
+      "description":
+        "A flavorful pizza topped with pesto sauce, artichoke hearts, and mozzarella cheese."
+    },
+  
+    {
+      "name": "SPICY PEPPERONI",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 275,
+          "medium": 425,
+          "large": 575
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/top-view-cheesy-tomato-pizza-with-olives-sausages-inside-pan-brown-desk-pizza-food-meal-fast-food-cheese-sausage_140725-33843.jpg?w=1380&t=st=1680676275~exp=1680676875~hmac=e4e3d353c31aad1c27f48b38a4e5137bd474a1121373aeefbbcff668ac7d8e01",
+      "description":
+        "A fiery pizza loaded with spicy pepperoni slices, tomato sauce, and mozzarella cheese."
+    },
+  
+    {
+      "name": "MARGHERITA WITH FETA",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 225,
+          "medium": 375,
+          "large": 525
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/close-up-pizza-wooden-stand-hand-take-slice-pizza-horizontal_176474-2455.jpg?w=1380&t=st=1680676308~exp=1680676908~hmac=c75b9ecd2504a2110af3db163c779b80782fe4fab016d5e7a3154fa39fe8c11b",
+      "description":
+        "A twist on the classic Margherita pizza, topped with tangy feta cheese and fresh basil."
+    },
+  
+    {
+      "name": "HAWAIIAN",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 275,
+          "medium": 425,
+          "large": 575
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/top-view-delicious-mushroom-pizza-with-cheese-olives-tomatoes-dark-surface-italy-food-meal-dough-pizza_140725-101788.jpg?w=1380&t=st=1680676329~exp=1680676929~hmac=2400edac7e28be433a918a8e5dff4648980ba0b93f180b5c2c07cd73072e73d6",
+      "description":
+        "A tropical pizza topped with ham, pineapple chunks, tomato sauce, and mozzarella cheese."
+    },
+  
+    {
+      "name": "FRESH VEGGIE",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 225,
+          "medium": 375,
+          "large": 525
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/pizza-with-garlic-tomatoes-lemon-olives-corn-pizza-cutter-top-view-dark-wooden-background_176474-4613.jpg?w=1380&t=st=1680676361~exp=1680676961~hmac=1735d7c9b24b21a5c90f00334d2ee861cadcd25a9e6c44d3bcce373cbd556f61",
+      "description":
+        "A healthy pizza loaded with fresh vegetables like bell peppers, tomatoes, and mushrooms."
+    },
+  
+    {
+      "name": "MEAT LOVERS",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 300,
+          "medium": 450,
+          "large": 600
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/flat-lay-square-pizza-board_23-2149235593.jpg?w=1380&t=st=1680676391~exp=1680676991~hmac=4c1157fadf7b8da6a4aefa0da7d78dfbd5cfe9ecb8ec8018ffa024615b90b7f9",
+      "description":
+        "A meaty pizza loaded with sausage, pepperoni, bacon, tomato sauce, and mozzarella cheese."
+    },
+  
+    {
+      "name": "CHEESEBURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 150,
+          "medium": 250,
+          "large": 350
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/sandwich-hamburger-with-juicy-burgers-tomato-red-cabbage_2829-4119.jpg?w=1380&t=st=1680676412~exp=1680677012~hmac=d8eaba75f4a397fcdfed62d7915dc23bffbf7bb5a86685cc33a9a31610124d34",
+      "description":
+        "Juicy beef patty with melted cheese, lettuce, tomato, onion and pickles, served on a bun."
+    },
+  
+    {
+      "name": "VEGGIE BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 180,
+          "medium": 300,
+          "large": 450
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://img.freepik.com/free-photo/sandwich-hamburger-with-juicy-burgers-tomato-red-cabbage_2829-4119.jpg?w=1380&t=st=1680676412~exp=1680677012~hmac=d8eaba75f4a397fcdfed62d7915dc23bffbf7bb5a86685cc33a9a31610124d34",
+      "description":
+        "Vegetable patty made with lentils, carrots, and spices, served on a bun with lettuce, tomato, onion and pickles."
+    },
+  
+    {
+      "name": "BACON CHEESEBURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 500
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/high-angle-delicious-hamburger-plate_23-2148575452.jpg?w=1380&t=st=1680676441~exp=1680677041~hmac=c0585789f2bf71cea3f818c95cd1c86b1af08767648805250f11fab6c32b7087",
+      "description":
+        "Juicy beef patty with crispy bacon and melted cheese, served on a bun with lettuce, tomato, onion and pickles."
+    },
+  
+    {
+      "name": "MUSHROOM SWISS BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 220,
+          "medium": 380,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/closeup-shot-open-juicy-pulled-meat-burger-surrounded-by-greens-blue-plate_181624-44909.jpg?w=1380&t=st=1680676460~exp=1680677060~hmac=feadd6a01b841951f7c889401cc90f185365d2f919229d309af971f570d0a493",
+      "description":
+        "Juicy beef patty with sautéed mushrooms and melted Swiss cheese, served on a bun with lettuce, tomato, onion and pickles."
+    },
+  
+    {
+      "name": "TURKEY BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 190,
+          "medium": 320,
+          "large": 480
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/big-burger-stuffed-with-chicken-meat-salad-wooden-board_114579-2572.jpg?w=1380&t=st=1680676478~exp=1680677078~hmac=259e3a5c19552e3807009e0f6fdff6a473a59a4e1d1b936f0e5f15f981cae39d",
+      "description":
+        "Juicy turkey patty with lettuce, tomato, onion, pickles, and a special sauce, served on a bun."
+    },
+  
+    {
+      "name": "CHICKEN BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 180,
+          "medium": 300,
+          "large": 450
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/juicy-burger-with-chicken-nuggets-batter_140725-9911.jpg?w=740&t=st=1680676499~exp=1680677099~hmac=1f79ed85ed395b11afd73d2ba2774354c368c6b29583a0e22c1ba51c9afc3dca",
+      "description":
+        "Grilled chicken breast with lettuce, tomato, onion, pickles, and a special sauce, served on a bun."
+    },
+  
+    {
+      "name": "BBQ BACON BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 220,
+          "medium": 380,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/top-view-buger-black-board_23-2148235087.jpg?w=1380&t=st=1680676517~exp=1680677117~hmac=8dd9ef11ac9219bac7053d96cf898513b5e7b9f1bc1610cf0b63cbe0a36b74eb",
+      "description":
+        "Juicy beef patty with crispy bacon, smoky BBQ sauce, and melted cheese, served on a bun."
+    },
+  
+    {
+      "name": "JALAPENO BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 500
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/hamburger-with-fried-meat-tomatoes-pickles-lettuce-cheese_1150-25580.jpg?w=1380&t=st=1680676538~exp=1680677138~hmac=03874ae72ef4cf435f57066533bb559a63cdf2c33d525d135c26ef5c83fab112",
+      "description":
+        "Juicy beef patty with sliced jalapenos, melted cheese, lettuce, tomato, onion, and pickles, served on a bun."
+    },
+  
+    {
+      "name": "DOUBLE CHEESEBURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 450,
+          "large": 650
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/mix-burger-meat-chicken-lettuce-cucumber-tomato-side-view_140725-11318.jpg?w=740&t=st=1680676558~exp=1680677158~hmac=528a7e93c43ad5288c20039d8f9897a14da82c3d5ff9dabad855faecb7ac8497",
+      "description":
+        "Two juicy beef patties with melted cheese, lettuce, tomato, onion, and pickles, served on a bun."
+    },
+  
+    {
+      "name": "AVOCADO BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 220,
+          "medium": 380,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/tasty-hamburger-avocado-wooden-board_23-2148575433.jpg?w=1380&t=st=1680676574~exp=1680677174~hmac=a1109dd4dbe446e1ee29348b9e7615299ffc89975ecb0e44881566eb3859f3d9",
+      "description":
+        "Juicy beef patty with sliced avocado, lettuce, tomato, onion, and pickles, served on a bun."
+    },
+  
+    {
+      "name": "MEXICAN BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 500
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/beef-burger-with-chopped-onions-tomatoes-inside-bread-bun-with-french-fries-stone-platter_114579-1865.jpg?w=1380&t=st=1680676596~exp=1680677196~hmac=ae96e197efa7710908950a8fde5c34bcb85ca8cb7664be04b2b5b8762cad3d34",
+      "description":
+        "Juicy beef patty with spicy salsa, guacamole, melted cheese, lettuce, tomato, onion, and pickles, served on a bun."
+    },
+  
+    {
+      "name": "PIZZA BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 220,
+          "medium": 380,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/top-view-arrangement-with-tasty-food-doughnuts_23-2148308879.jpg?w=1380&t=st=1680676625~exp=1680677225~hmac=5c530c37b422c8fcc511d0d66dd4b179b52f2f0505982da4fc0baf285f7ee63c",
+      "description":
+        "Juicy beef patty with marinara sauce, melted mozzarella cheese, and pepperoni, served on a bun."
+    },
+  
+    {
+      "name": "BLUE CHEESE BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 220,
+          "medium": 380,
+          "large": 550
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/american-hamburger_23-2147783565.jpg?w=740&t=st=1680676643~exp=1680677243~hmac=57b9230058a6369720e1cc76d66d04f717b47747aad33180f37ef10eb6d61670",
+      "description":
+        "Juicy beef patty with tangy blue cheese, lettuce, tomato, onion, and pickles, served on a bun."
+    },
+  
+    {
+      "name": "HAWAIIAN BURGER",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 500
+        }
+      ],
+      "category": "nonveg",
+      "image":
+        "https://img.freepik.com/free-photo/man-holding-meat-burger-tomato-onion-lettuce-beans-side-view_141793-1843.jpg?w=1380&t=st=1680676658~exp=1680677258~hmac=11d7477e5573d8bda288c5a2aec252b50f915a68d395eba54a4e06af36f4cfed",
+      "description":
+        "Juicy beef patty with grilled pineapple, teriyaki sauce, lettuce, tomato, onion, and pickles, served on a bun."
+    }
+]

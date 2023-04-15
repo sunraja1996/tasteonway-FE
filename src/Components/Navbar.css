@@ -1,0 +1,51 @@
+.bg-custom{
+background: #FFE9A0;
+}
+
+.logo{
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+
+
+.navbar-brand{
+  font-family: 'Yesteryear', cursive;
+    margin-right: 0.5rem; 
+    font-size: 30px;
+}
+
+.nav-logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-nav{
+    font-weight: 600;
+    margin-right: -1rem; 
+}
+
+.btn-custom {
+    background-color: #367E18;
+    color: #fff; 
+    transition: 0.5s all ease-in-out;
+  }
+
+  .btn-custom:hover {
+    background-color: #53be25;
+    color: #fff; 
+  }
+
+  .navbar {
+    padding: 0.5rem; 
+  }
+
+  .nav-link{
+    margin-right: 1rem; 
+}
+
+.ShoppingCartIcon{
+  color: #fa0606;
+}
+  

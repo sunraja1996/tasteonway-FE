@@ -1,0 +1,23 @@
+.img-pizzaburger{
+    height: 300px;
+    width: 350px;
+    object-fit: cover;
+    border-radius: 50px;
+    box-shadow: 1px 2px 10px 3px rgba(0,0,0,0.39);
+-webkit-box-shadow: 1px 2px 10px 3px rgba(0,0,0,0.39);
+-moz-box-shadow: 1px 2px 10px 3px rgba(0,0,0,0.39);
+}
+.pbc-btn{
+    background-color: #F57328;
+    color: #FFE9A0; 
+    transition: 0.5s all ease-in-out;
+}
+
+.pbc-btn:hover{
+    color: #367E18; 
+}
+
+.bg-pbc-custom{
+    background-color: #EDF1D6;
+}
+
